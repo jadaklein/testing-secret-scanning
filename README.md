@@ -20,3 +20,11 @@ Client ID
 Client Secret
 
 cfast_VHrujfEjyK90uEvTTiwy4csqA6Kq6c33PeWcCK5m5363d4bc
+
+Client ID
+
+4ed447fd33c993ce417fedd17b42923c.access
+
+Client Secret
+
+cfast_3HhrKklrkdANNVhUCZladIKltt0ilqugY3C1ufc20c557c12
