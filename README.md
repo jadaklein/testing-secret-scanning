@@ -28,3 +28,11 @@ Client ID
 Client Secret
 
 cfast_3HhrKklrkdANNVhUCZladIKltt0ilqugY3C1ufc20c557c12
+
+Client ID
+
+adfafc2e9ad24012ec09dabaebacf204.access
+
+Cleint Secret 
+
+cfast_xyWzzPJcxfz3NG4VKMTrTAcDtaoKcxpitV5rCNp1b8845c3b
